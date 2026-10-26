@@ -28,7 +28,7 @@
 
    data-endpoint leer lassen: Das Formular öffnet dann das E-Mail-Programm.
    data-endpoint mit Adresse: Versand per fetch als JSON. Funktioniert mit
-   - eigenem PHP-Skript (vorlagen/anfrage.php): data-endpoint="/scoreratgeber-test-pages/anfrage.php"
+   - eigenem PHP-Skript (vorlagen/anfrage.php): data-endpoint="/bonitaetsratgeber-test-pages/anfrage.php"
    - Formspree: data-endpoint="https://formspree.io/f/<id>"
    - Web3Forms: data-endpoint="https://api.web3forms.com/submit" plus
      <input type="hidden" name="access_key" value="<schlüssel>"> im Formular
