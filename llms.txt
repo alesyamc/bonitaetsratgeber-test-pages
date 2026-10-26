@@ -1,43 +1,43 @@
-# ScoreRatgeber
+# BonitätsRatgeber
 
-> ScoreRatgeber (scoreratgeber.de) ist ein unabhängiges Ratgeberportal zu Bonität, Schufa und anderen Auskunfteien in Deutschland.
+> BonitätsRatgeber (bonitaetsratgeber.de) ist ein unabhängiges Ratgeberportal zu Bonität, Schufa und anderen Auskunfteien in Deutschland.
 
 Alle Texte schreibt und prüft Alessia Pewnew. Jede Seite nennt ihre Quellen, meist Gesetzestexte, die Verbraucherzentrale oder die Auskunfteien selbst, und das Datum der letzten Prüfung.
-ScoreRatgeber hat keine Verbindung zur SCHUFA Holding AG oder anderen Auskunfteien.
-ScoreRatgeber verkauft keine eigenen Leistungen und verspricht nicht, den Score zu verbessern.
+BonitätsRatgeber hat keine Verbindung zur SCHUFA Holding AG oder anderen Auskunfteien.
+BonitätsRatgeber verkauft keine eigenen Leistungen und verspricht nicht, den Score zu verbessern.
 Die Inhalte sind keine Rechts- oder Finanzberatung.
-Bei Schulden verweist ScoreRatgeber auf kostenlose Schuldnerberatungsstellen.
+Bei Schulden verweist BonitätsRatgeber auf kostenlose Schuldnerberatungsstellen.
 
 ## Teil 1: Bonität verstehen
 
 Was Bonität bedeutet, was die Schufa und andere Auskunfteien speichern, wie der Score entsteht und was ein negativer Eintrag bedeutet.
 
-- [Was ist Bonität?](https://www.scoreratgeber.de/was-ist-bonitaet/): Bonität heißt Kreditwürdigkeit. Woraus sie besteht, wer sie prüft, was gute und schlechte Bonität bedeutet und was die Schufa damit zu tun hat.
-- [Was ist die Schufa?](https://www.scoreratgeber.de/was-ist-die-schufa/): Was ist die Schufa? Ein privates Unternehmen, keine Behörde. Was sie über Sie speichert, wer Ihre Daten abfragt und welche Rechte Sie haben.
-- [Schufa-Score und Tabelle](https://www.scoreratgeber.de/schufa-score-tabelle/): Der neue Schufa-Score reicht von 100 bis 999 Punkten, gut ab 709. Die Tabelle zeigt alle Klassen und die 12 Kriterien, aus denen er entsteht.
-- [Negativer Schufa-Eintrag](https://www.scoreratgeber.de/negativer-schufa-eintrag/): Wann ein Unternehmen Schulden an die Schufa melden darf, wie ein negativer Eintrag in der Datenkopie aussieht und was er für Konto, Kredit, Wohnung heißt.
-- [Schufa 2026: Änderungen](https://www.scoreratgeber.de/schufa-2026/): Neuer Schufa-Score seit März, kürzere Löschfristen, BGH-Urteile und ab 20. November 2026 neue Regeln fürs Scoring nach § 37a BDSG. Was sich für Sie ändert.
+- [Was ist Bonität?](https://www.bonitaetsratgeber.de/was-ist-bonitaet/): Bonität heißt Kreditwürdigkeit. Woraus sie besteht, wer sie prüft, was gute und schlechte Bonität bedeutet und was die Schufa damit zu tun hat.
+- [Was ist die Schufa?](https://www.bonitaetsratgeber.de/was-ist-die-schufa/): Was ist die Schufa? Ein privates Unternehmen, keine Behörde. Was sie über Sie speichert, wer Ihre Daten abfragt und welche Rechte Sie haben.
+- [Schufa-Score und Tabelle](https://www.bonitaetsratgeber.de/schufa-score-tabelle/): Der neue Schufa-Score reicht von 100 bis 999 Punkten, gut ab 709. Die Tabelle zeigt alle Klassen und die 12 Kriterien, aus denen er entsteht.
+- [Negativer Schufa-Eintrag](https://www.bonitaetsratgeber.de/negativer-schufa-eintrag/): Wann ein Unternehmen Schulden an die Schufa melden darf, wie ein negativer Eintrag in der Datenkopie aussieht und was er für Konto, Kredit, Wohnung heißt.
+- [Schufa 2026: Änderungen](https://www.bonitaetsratgeber.de/schufa-2026/): Neuer Schufa-Score seit März, kürzere Löschfristen, BGH-Urteile und ab 20. November 2026 neue Regeln fürs Scoring nach § 37a BDSG. Was sich für Sie ändert.
 
 ## Teil 2: Auskunft & Rechte
 
 Wie Sie Ihre Daten bei der Schufa und anderen Auskunfteien kostenlos einsehen, was Vermieter sehen dürfen und wie falsche Einträge verschwinden.
 
-- [Schufa-Auskunft beantragen](https://www.scoreratgeber.de/schufa-auskunft-beantragen/): So beantragen Sie Ihre Schufa-Auskunft kostenlos als Datenkopie oder im Schufa-Account. Mit Unterschied zum Bonitätscheck für 29,95 € und Lieferzeit.
-- [Andere Auskunfteien](https://www.scoreratgeber.de/andere-auskunfteien/): Experian (infoscore, Boniversum), CRIF und Creditreform: Welche Auskunfteien es neben der Schufa gibt und wie Sie dort kostenlos Ihre Daten abfragen.
-- [Schufa-Bonitätscheck](https://www.scoreratgeber.de/schufa-bonitaetscheck/): Der Schufa-Bonitätscheck kostet 29,95 € und ist für Vermieter gedacht. Für Ihre eigene Kontrolle reicht die kostenlose Datenkopie. Der Vergleich.
-- [Schufa-Eintrag löschen](https://www.scoreratgeber.de/schufa-eintrag-loeschen/): Wann die Schufa Einträge löscht, wann es nach 18 Monaten geht und wie Sie falsche Einträge entfernen lassen. Mit Musterbrief und BGH-Urteil 2025.
+- [Schufa-Auskunft beantragen](https://www.bonitaetsratgeber.de/schufa-auskunft-beantragen/): So beantragen Sie Ihre Schufa-Auskunft kostenlos als Datenkopie oder im Schufa-Account. Mit Unterschied zum Bonitätscheck für 29,95 € und Lieferzeit.
+- [Andere Auskunfteien](https://www.bonitaetsratgeber.de/andere-auskunfteien/): Experian (infoscore, Boniversum), CRIF und Creditreform: Welche Auskunfteien es neben der Schufa gibt und wie Sie dort kostenlos Ihre Daten abfragen.
+- [Schufa-Bonitätscheck](https://www.bonitaetsratgeber.de/schufa-bonitaetscheck/): Der Schufa-Bonitätscheck kostet 29,95 € und ist für Vermieter gedacht. Für Ihre eigene Kontrolle reicht die kostenlose Datenkopie. Der Vergleich.
+- [Schufa-Eintrag löschen](https://www.bonitaetsratgeber.de/schufa-eintrag-loeschen/): Wann die Schufa Einträge löscht, wann es nach 18 Monaten geht und wie Sie falsche Einträge entfernen lassen. Mit Musterbrief und BGH-Urteil 2025.
 
 ## Teil 3: Ohne Schufa
 
 Konto, P-Konto und Verträge, die auch mit negativem Schufa-Eintrag möglich sind.
 
-- [Konto ohne Schufa](https://www.scoreratgeber.de/konto-ohne-schufa/): Konto ohne Schufa: 41 Girokonten im Vergleich – ohne Abfrage, trotz Eintrag oder als Basiskonto mit Rechtsanspruch. Mit Kosten, IBAN und Einlagensicherung.
-- [P-Konto](https://www.scoreratgeber.de/p-konto/): Das P-Konto (Pfändungsschutzkonto) schützt seit 1. Juli 2026 monatlich 1.590 € vor Pfändung. So wandeln Sie Ihr Konto um und erhöhen den Freibetrag.
+- [Konto ohne Schufa](https://www.bonitaetsratgeber.de/konto-ohne-schufa/): Konto ohne Schufa: 41 Girokonten im Vergleich – ohne Abfrage, trotz Eintrag oder als Basiskonto mit Rechtsanspruch. Mit Kosten, IBAN und Einlagensicherung.
+- [P-Konto](https://www.bonitaetsratgeber.de/p-konto/): Das P-Konto (Pfändungsschutzkonto) schützt seit 1. Juli 2026 monatlich 1.590 € vor Pfändung. So wandeln Sie Ihr Konto um und erhöhen den Freibetrag.
 
-## Über ScoreRatgeber
+## Über BonitätsRatgeber
 
-- [Über uns und Arbeitsweise](https://www.scoreratgeber.de/ueber-uns/)
-- [So finanzieren wir uns](https://www.scoreratgeber.de/so-finanzieren-wir-uns/)
-- [Kontakt](https://www.scoreratgeber.de/kontakt/)
-- [Impressum](https://www.scoreratgeber.de/impressum/)
-- [Datenschutz](https://www.scoreratgeber.de/datenschutz/)
+- [Über uns und Arbeitsweise](https://www.bonitaetsratgeber.de/ueber-uns/)
+- [So finanzieren wir uns](https://www.bonitaetsratgeber.de/so-finanzieren-wir-uns/)
+- [Kontakt](https://www.bonitaetsratgeber.de/kontakt/)
+- [Impressum](https://www.bonitaetsratgeber.de/impressum/)
+- [Datenschutz](https://www.bonitaetsratgeber.de/datenschutz/)

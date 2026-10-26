@@ -1,4 +1,4 @@
-// ScoreRatgeber: nur das Nötigste.
+// BonitätsRatgeber: nur das Nötigste.
 // Häufige Fragen: Ein Sprunglink auf eine Frage öffnet sie.
 (function () {
   function open() {
